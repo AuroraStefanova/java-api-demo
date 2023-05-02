@@ -1,0 +1,11 @@
+
+<suite name = "Run One Main Test">
+    <test name = "Test One Test">
+        <classe>
+            <class name = "tests.RegistrationAndLogin">
+                <methods name = "test SuccessRegistration">
+                </methods>
+            </class>
+        </classe>
+    </test>
+</suite>
